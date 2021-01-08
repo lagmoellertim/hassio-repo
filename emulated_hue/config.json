@@ -1,6 +1,6 @@
 {
   "name": "Emulated HUE",
-  "version": "0.0.11",
+  "version": "latest",
   "description": "Hue Emulation for Home Assistant",
   "url": "https://github.com/lagmoellertim/core",
   "slug": "emulated_hue",
