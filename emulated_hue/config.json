@@ -1,8 +1,8 @@
 {
   "name": "Emulated HUE",
-  "version": "0.0.11",
+  "version": "0.0.11-fork-0.1",
   "description": "Hue Emulation for Home Assistant",
-  "url": "https://github.com/hass-emulated-hue/core",
+  "url": "https://github.com/lagmoellertim/core",
   "slug": "emulated_hue",
   "stage": "stable",
   "startup": "application",
@@ -18,5 +18,5 @@
   "schema": {
     "verbose": "bool"
   },
-  "image": "ghcr.io/hass-emulated-hue/core"
+  "image": "lagmoellertim/hassio-hue-emulator:latest"
 }
