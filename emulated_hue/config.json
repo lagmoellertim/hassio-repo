@@ -18,5 +18,5 @@
   "schema": {
     "verbose": "bool"
   },
-  "image": "lagmoellertim/hassio-hue-emulator:latest"
+  "image": "lagmoellertim/hassio-hue-emulator:{arch}-latest"
 }
